@@ -2,11 +2,11 @@
 
 **Crafting productivity apps and open source libraries with performance and delightful UI**
 
-[![Website](https://img.shields.io/badge/Website-oddbuddy.com-blue)](https://oddbuddy.com/)
+[![Website](https://img.shields.io/badge/Website-oddbuddy.com-purple)](https://oddbuddy.com/)
 
 ## 🛠️ Our Products
 
-### 📱 **STROQ** [![Website](https://img.shields.io/badge/Website-STROQ-blue)](https://oddbuddy.com/app/STROQ.html)
+### 📱 **STROQ** [![Website](https://img.shields.io/badge/Website-STROQ-skyblue)](https://oddbuddy.com/app/STROQ.html)
 Daily streaks, questions & smart to-do for students. A personal study companion designed to keep you motivated
 - ✅ Realistic planning & daily checklist
 - 📚 Study blocks with revision cycles
